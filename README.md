@@ -1,2 +1,2 @@
-# HOTSPOT
+# Hotspot
 A micro social networking platform
